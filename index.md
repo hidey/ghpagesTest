@@ -5,12 +5,9 @@ title: hoge
 
 ## トップページ
 
-{%highlight ruby linenos%}
-def fig();
- hoge;
-end
+[セクション1](#section1)
 
-{%endhighlight%}
+{{ site.baseurl }}
 
 ```ruby
 def fig();
